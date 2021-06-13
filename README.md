@@ -1,6 +1,6 @@
 # *KRT_graficos*
 
-* *Template para vizualização de dados de sensores do projeto de um veículo FSAE da Equipe KRT UFBA*
+* *Template para vizualização de dados (.txt) de sensores do projeto de um veículo de Fórmula SAE da Equipe KRT UFBA*
 
 ### Imagens:
 
